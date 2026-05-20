@@ -23,10 +23,10 @@ I am interested in computational neuroscience, bioinformatics, AI in healthcare,
 
 ## Featured Projects
 
-### Rumination Analysis
+### [Rumination Analysis](https://github.com/Saman-Fakhri/rumination-analysis)
 A Python/Jupyter project examining whether self-esteem and optimism predict rumination using regression analysis and data visualization.
 
-### Sensorimotor Phase Analysis
+### [Sensorimotor Phase Analysis](https://github.com/Saman-Fakhri/sensorimotor-phase-analysis)
 An R-based behavioral analysis project comparing one-hand and two-hand sensorimotor performance across phase differences.
 
 ## Currently Learning
