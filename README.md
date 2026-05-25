@@ -1,17 +1,19 @@
 # Hi, I'm Saman Fakhri 👋
 
+Love mountains, amused by the brain.
+
 Science graduate based in Melbourne with a background in Physiology, Psychology, cognitive and behavioural neuroscience, and quantitative data analysis.
 
-I’m interested in experimental cognitive neuroscience and psychophysics, particularly in designing studies, collecting human behavioural data, and using analysis to better understand perception and cognition.
+I’m interested in experimental cognitive neuroscience and psychophysics, particularly in designing studies, collecting human behavioural data, and analysing how people think, perceive, and make decisions.
 
 ## Research Interests
 
 - Experimental cognitive neuroscience
 - Psychophysics
-- Human behavioural research
 - Sensory perception
+- Perceptual decision-making
+- Human behavioural research
 - Behavioural data analysis
-- Cognitive science
 
 ## Technical Skills
 
@@ -20,35 +22,38 @@ I’m interested in experimental cognitive neuroscience and psychophysics, parti
 - Jupyter Notebook
 - Statistical analysis
 - Regression analysis
-- Data visualisation
 - Experimental design
 - Human participant research
+- Data visualisation
 - ggplot2
 - dplyr
 - pandas
+- MATLAB (research exposure)
 
 ## Featured Projects
 
-### Sensorimotor Phase Analysis
+### Vibrotactile Motion Perception and Perceptual Decision-Making
 
-R-based behavioural analysis project examining one-hand and two-hand sensorimotor performance across phase differences.
+Undergraduate cognitive neuroscience research project investigating tactile perception using vibration-based stimuli within a two-alternative forced-choice (2-AFC) behavioural paradigm.
 
 Methods included:
 
-- Behavioural experiment analysis
-- Response bias analysis
+- Human participant experiments
+- Behavioural data collection
+- Perceptual decision-making analysis
 - Permutation testing
+- Statistical analysis in R and MATLAB
 - Data visualisation
-- Statistical interpretation
 
-### Rumination Analysis
+### Psychological Predictors of Rumination
 
 Psychological data analysis project examining relationships between self-esteem, optimism, and rumination.
 
 Methods included:
 
-- Multiple regression
 - Correlation analysis
+- Multiple regression
+- Moderated regression
 - Statistical visualisation
 - Behavioural data interpretation
 
@@ -56,5 +61,5 @@ Methods included:
 
 - Advanced behavioural data analysis
 - Experimental methods in cognitive neuroscience
-- Research workflows and reproducible science
-- Building neuroscience research portfolios
+- Psychophysical research methods
+- Reproducible research workflows
