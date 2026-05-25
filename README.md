@@ -1,7 +1,5 @@
 # Hi, I'm Saman Fakhri 👋
 
-Love mountains, amused by the brain.
-
 Science graduate based in Melbourne with a background in Physiology, Psychology, cognitive and behavioural neuroscience, and quantitative data analysis.
 
 I’m interested in experimental cognitive neuroscience and psychophysics, particularly in designing studies, collecting human behavioural data, and analysing how people think, perceive, and make decisions.
