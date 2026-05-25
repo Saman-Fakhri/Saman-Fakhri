@@ -1,45 +1,60 @@
 # Hi, I'm Saman Fakhri 👋
 
-Science graduate based in Melbourne with a background in physiology, psychology, cognitive neuroscience, and behavioral data analysis.
+Science graduate based in Melbourne with a background in Physiology, Psychology, cognitive and behavioural neuroscience, and quantitative data analysis.
 
-I am interested in computational neuroscience, bioinformatics, AI in healthcare, and data-driven biomedical research.
+I’m interested in experimental cognitive neuroscience and psychophysics, particularly in designing studies, collecting human behavioural data, and using analysis to better understand perception and cognition.
 
 ## Research Interests
-- Cognitive neuroscience
-- Computational neuroscience
-- Bioinformatics
-- AI in healthcare
-- Clinical research
-- Behavioral data analysis
-- Gene expression analysis
-- Biomedical data science
+
+- Experimental cognitive neuroscience
+- Psychophysics
+- Human behavioural research
+- Sensory perception
+- Behavioural data analysis
+- Cognitive science
 
 ## Technical Skills
-- Python
+
 - R
+- Python
 - Jupyter Notebook
-- Pandas
-- Scikit-learn
-- Statistical modelling
+- Statistical analysis
 - Regression analysis
-- PCA and clustering
-- Data visualization
-- Behavioral experiment analysis
+- Data visualisation
+- Experimental design
+- Human participant research
+- ggplot2
+- dplyr
+- pandas
 
 ## Featured Projects
 
-### [Gene Expression Analysis](https://github.com/Saman-Fakhri/gene-expression-analysis)
-A bioinformatics mini-project using PCA and KMeans clustering to explore biological patterns in gene expression data using Python and Jupyter Notebook.
+### Sensorimotor Phase Analysis
 
-### [Rumination Analysis](https://github.com/Saman-Fakhri/rumination-analysis)
-A Python/Jupyter project examining whether self-esteem and optimism predict rumination using regression analysis and data visualization.
+R-based behavioural analysis project examining one-hand and two-hand sensorimotor performance across phase differences.
 
-### [Sensorimotor Phase Analysis](https://github.com/Saman-Fakhri/sensorimotor-phase-analysis)
-An R-based behavioral analysis project comparing one-hand and two-hand sensorimotor performance across phase differences.
+Methods included:
+
+- Behavioural experiment analysis
+- Response bias analysis
+- Permutation testing
+- Data visualisation
+- Statistical interpretation
+
+### Rumination Analysis
+
+Psychological data analysis project examining relationships between self-esteem, optimism, and rumination.
+
+Methods included:
+
+- Multiple regression
+- Correlation analysis
+- Statistical visualisation
+- Behavioural data interpretation
 
 ## Currently Learning
-- Bioinformatics workflows
-- Transcriptomics and gene expression analysis
-- Machine learning for biomedical data
-- Computational neuroscience methods
-- GitHub-based research portfolios
+
+- Advanced behavioural data analysis
+- Experimental methods in cognitive neuroscience
+- Research workflows and reproducible science
+- Building neuroscience research portfolios
