@@ -32,7 +32,7 @@ I’m interested in experimental cognitive neuroscience and psychophysics, parti
 
 ## Featured Projects
 
-### Vibrotactile Motion Perception and Perceptual Decision-Making
+### [Vibrotactile Motion Perception and Perceptual Decision-Making](https://github.com/Saman-Fakhri/sensorimotor-phase-analysis)
 
 Undergraduate cognitive neuroscience research project investigating tactile perception using vibration-based stimuli within a two-alternative forced-choice (2-AFC) behavioural paradigm.
 
@@ -45,7 +45,7 @@ Methods included:
 - Statistical analysis in R and MATLAB
 - Data visualisation
 
-### Psychological Predictors of Rumination
+### [Psychological Predictors of Rumination](https://github.com/Saman-Fakhri/rumination-analysis)
 
 Psychological data analysis project examining relationships between self-esteem, optimism, and rumination.
 
